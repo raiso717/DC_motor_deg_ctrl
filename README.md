@@ -1,1 +1,1 @@
-# DC_motor_deg_ctrl
+# dc-motor-degree-control
